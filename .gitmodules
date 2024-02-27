@@ -1,3 +1,6 @@
 [submodule "rust-raspberrypi-OS-tutorials"]
 	path = rust-raspberrypi-OS-tutorials
 	url = git@github.com:rust-embedded/rust-raspberrypi-OS-tutorials.git
+[submodule "rp-hal"]
+	path = rp-hal
+	url = git@github.com:rp-rs/rp-hal.git
